@@ -10,6 +10,7 @@ A novel hybrid architecture combining a **frozen DeBERTa-v3-large NLI backbone**
 
 > 🤗 Model available at: [tdnathmlenthusiast/hybrid-nli-polyencoder](https://huggingface.co/tdnathmlenthusiast/hybrid-nli-polyencoder)
 
+> An experimental notebook with 5 differents architectures: [Click Here](https://drive.google.com/file/d/1ZXWbFAw4TYXehyg6AKIjfih7LwVaxv3j/view?usp=drive_link)
 ---
 
 ## 🏗️ Architecture
