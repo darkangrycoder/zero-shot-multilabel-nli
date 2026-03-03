@@ -1,0 +1,40 @@
+model:
+  name: "MoritzLaurer/deberta-v3-large-zeroshot-v2.0"
+  num_codes: 8           # PolyEncoder code vectors per head
+  proj_dim: 256          # projection dimension
+  max_num_labels: 5
+
+training:
+  num_epochs: 25
+  batch_size: 16
+  learning_rate: 3e-4
+  optimizer: "adamw"
+  weight_decay: 1e-4
+  kl_weight: 0.3         # KL alignment loss weight
+  blend_weight: 1.0      # blend-BCE loss weight
+  nli_conf_thr: 0.75     # NLI confidence threshold for KL loss
+  patience: 7            # early stopping patience
+
+data:
+  synthetic_data_path: "data/synthetic_data.json"
+  train_split: 0.8
+  random_seed: 42
+
+labels:
+  all: ["Technology", "Health", "Finance", "Economy", "Environment"]
+  specialist: ["Economy", "Technology", "Finance", "Environment"]
+  # Health uses NLI-only (achieves 0.87 F1 zero-shot, no PolyHead needed)
+
+label_descriptions:
+  Technology:  "This text is about technology, software, hardware, artificial intelligence, or digital innovation"
+  Health:      "This text is about medicine, healthcare, wellness, disease, medical research, or public health"
+  Finance:     "This text is about banking, investment, stock markets, corporate earnings, or financial instruments"
+  Economy:     "This text is about economic policy, GDP, employment, trade, inflation, or macroeconomic trends"
+  Environment: "This text is about climate change, pollution, ecology, sustainability, conservation, or nature"
+
+checkpoint:
+  dir: "checkpoints/multihead_v2"
+  filename: "multihead_v2.pt"
+
+huggingface:
+  repo_id: "tdnathmlenthusiast/hybrid-nli-polyencoder"
