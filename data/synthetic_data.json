@@ -1,0 +1,7502 @@
+[
+  {
+    "text": "A new AI-powered diagnostic tool detects early-stage pancreatic cancer with 94% accuracy.",
+    "labels": [
+      "Technology",
+      "Health"
+    ]
+  },
+  {
+    "text": "Wearable biosensors can now continuously monitor blood pressure without a cuff.",
+    "labels": [
+      "Technology",
+      "Health"
+    ]
+  },
+  {
+    "text": "A smartphone app helps patients manage chronic pain using cognitive behavioral therapy modules.",
+    "labels": [
+      "Technology",
+      "Health"
+    ]
+  },
+  {
+    "text": "Researchers used machine learning to predict which patients are at risk of sepsis 48 hours in advance.",
+    "labels": [
+      "Technology",
+      "Health"
+    ]
+  },
+  {
+    "text": "A new robotic exoskeleton enables paralyzed patients to walk independently.",
+    "labels": [
+      "Technology",
+      "Health"
+    ]
+  },
+  {
+    "text": "Telemedicine adoption surged, with 60% of routine consultations now conducted virtually.",
+    "labels": [
+      "Technology",
+      "Health"
+    ]
+  },
+  {
+    "text": "A brain-computer interface restored speech in a patient who had been mute for 15 years.",
+    "labels": [
+      "Technology",
+      "Health"
+    ]
+  },
+  {
+    "text": "An AI model outperformed radiologists in detecting breast cancer in mammography images.",
+    "labels": [
+      "Technology",
+      "Health"
+    ]
+  },
+  {
+    "text": "A new implantable device monitors glucose levels in diabetics and automatically releases insulin.",
+    "labels": [
+      "Technology",
+      "Health"
+    ]
+  },
+  {
+    "text": "Researchers developed a nanoscale drug delivery system that targets tumors while sparing healthy tissue.",
+    "labels": [
+      "Technology",
+      "Health"
+    ]
+  },
+  {
+    "text": "A digital therapeutics platform for insomnia was approved as a prescription-only treatment.",
+    "labels": [
+      "Technology",
+      "Health"
+    ]
+  },
+  {
+    "text": "Gene sequencing costs fell below $100, making personalized medicine accessible to millions.",
+    "labels": [
+      "Technology",
+      "Health"
+    ]
+  },
+  {
+    "text": "A new VR therapy program reduced PTSD symptoms in veterans by 70%.",
+    "labels": [
+      "Technology",
+      "Health"
+    ]
+  },
+  {
+    "text": "An AI-powered ophthalmology tool screens for diabetic retinopathy in rural clinics.",
+    "labels": [
+      "Technology",
+      "Health"
+    ]
+  },
+  {
+    "text": "Soft robotics are being used to assist stroke survivors in relearning daily motor tasks.",
+    "labels": [
+      "Technology",
+      "Health"
+    ]
+  },
+  {
+    "text": "A new 3D-bioprinted skin graft accelerates wound healing in burn patients.",
+    "labels": [
+      "Technology",
+      "Health"
+    ]
+  },
+  {
+    "text": "A wearable patch monitors sweat composition to detect nutritional deficiencies in real time.",
+    "labels": [
+      "Technology",
+      "Health"
+    ]
+  },
+  {
+    "text": "Researchers created an AI tool that predicts heart attack risk from a retinal scan.",
+    "labels": [
+      "Technology",
+      "Health"
+    ]
+  },
+  {
+    "text": "A new mobile health app reduced hospital readmission rates in cardiac patients by 30%.",
+    "labels": [
+      "Technology",
+      "Health"
+    ]
+  },
+  {
+    "text": "Scientists used CRISPR to correct a genetic mutation causing childhood blindness.",
+    "labels": [
+      "Technology",
+      "Health"
+    ]
+  },
+  {
+    "text": "A new AI model identifies suicidal ideation in clinical notes before a crisis occurs.",
+    "labels": [
+      "Technology",
+      "Health"
+    ]
+  },
+  {
+    "text": "An implantable neural chip helped a patient with locked-in syndrome communicate via text.",
+    "labels": [
+      "Technology",
+      "Health"
+    ]
+  },
+  {
+    "text": "Digital twins of patient hearts are being used to simulate surgery outcomes.",
+    "labels": [
+      "Technology",
+      "Health"
+    ]
+  },
+  {
+    "text": "A new smartwatch feature alerts users to signs of atrial fibrillation.",
+    "labels": [
+      "Technology",
+      "Health"
+    ]
+  },
+  {
+    "text": "Robotic-assisted surgery reduced recovery times for hip replacements by 40%.",
+    "labels": [
+      "Technology",
+      "Health"
+    ]
+  },
+  {
+    "text": "A portable AI device diagnoses tuberculosis from a cough recording in under one minute.",
+    "labels": [
+      "Technology",
+      "Health"
+    ]
+  },
+  {
+    "text": "Researchers developed a liquid biopsy test that detects cancer from a single blood draw.",
+    "labels": [
+      "Technology",
+      "Health"
+    ]
+  },
+  {
+    "text": "A new mental health chatbot provided therapeutic support to over five million users.",
+    "labels": [
+      "Technology",
+      "Health"
+    ]
+  },
+  {
+    "text": "Augmented reality headsets are helping surgeons visualize tumors in real time during operations.",
+    "labels": [
+      "Technology",
+      "Health"
+    ]
+  },
+  {
+    "text": "Scientists used AI to design a flu vaccine that targets multiple viral strains simultaneously.",
+    "labels": [
+      "Technology",
+      "Health"
+    ]
+  },
+  {
+    "text": "A smart inhaler tracks medication adherence in asthma patients and alerts caregivers.",
+    "labels": [
+      "Technology",
+      "Health"
+    ]
+  },
+  {
+    "text": "An algorithm analyzing sleep data from fitness trackers can now predict early dementia.",
+    "labels": [
+      "Technology",
+      "Health"
+    ]
+  },
+  {
+    "text": "A bio-printed cornea restored vision in patients who were previously unable to receive donors.",
+    "labels": [
+      "Technology",
+      "Health"
+    ]
+  },
+  {
+    "text": "A new AI platform identifies drug interactions that human pharmacists might overlook.",
+    "labels": [
+      "Technology",
+      "Health"
+    ]
+  },
+  {
+    "text": "Remote patient monitoring via connected devices reduced ICU admissions by 25%.",
+    "labels": [
+      "Technology",
+      "Health"
+    ]
+  },
+  {
+    "text": "A new haptic glove helps patients with Parkinson's disease steady their tremors.",
+    "labels": [
+      "Technology",
+      "Health"
+    ]
+  },
+  {
+    "text": "Scientists used mRNA technology to create a personalized cancer vaccine for each patient.",
+    "labels": [
+      "Technology",
+      "Health"
+    ]
+  },
+  {
+    "text": "An app that gamifies physical rehabilitation exercises improved compliance rates significantly.",
+    "labels": [
+      "Technology",
+      "Health"
+    ]
+  },
+  {
+    "text": "A new implantable biosensor detects infection before symptoms appear, reducing antibiotic overuse.",
+    "labels": [
+      "Technology",
+      "Health"
+    ]
+  },
+  {
+    "text": "AI-generated medical imaging reports cut diagnostic turnaround time from days to hours.",
+    "labels": [
+      "Technology",
+      "Health"
+    ]
+  },
+  {
+    "text": "A robotic pill camera maps the entire gastrointestinal tract without sedation.",
+    "labels": [
+      "Technology",
+      "Health"
+    ]
+  },
+  {
+    "text": "Researchers developed a non-invasive brain scanner using quantum sensors.",
+    "labels": [
+      "Technology",
+      "Health"
+    ]
+  },
+  {
+    "text": "A new smart bandage delivers antibiotics on demand when it detects bacterial infection.",
+    "labels": [
+      "Technology",
+      "Health"
+    ]
+  },
+  {
+    "text": "Scientists used AI to reverse-engineer a protein that neutralizes the flu virus.",
+    "labels": [
+      "Technology",
+      "Health"
+    ]
+  },
+  {
+    "text": "An autonomous drone delivers blood products to remote hospitals in under 30 minutes.",
+    "labels": [
+      "Technology",
+      "Health"
+    ]
+  },
+  {
+    "text": "A voice analysis app can detect early signs of depression from speech patterns.",
+    "labels": [
+      "Technology",
+      "Health"
+    ]
+  },
+  {
+    "text": "Digital phenotyping via smartphone usage patterns now assists in diagnosing bipolar disorder.",
+    "labels": [
+      "Technology",
+      "Health"
+    ]
+  },
+  {
+    "text": "An AI trained on millions of ECGs can detect undiagnosed heart disease with high accuracy.",
+    "labels": [
+      "Technology",
+      "Health"
+    ]
+  },
+  {
+    "text": "Researchers used nanotechnology to deliver chemotherapy directly into leukemia cells.",
+    "labels": [
+      "Technology",
+      "Health"
+    ]
+  },
+  {
+    "text": "A new robotic rehabilitation device restored fine motor control in spinal injury patients.",
+    "labels": [
+      "Technology",
+      "Health"
+    ]
+  },
+  {
+    "text": "A fintech startup used AI to automate small business loan approvals in under five minutes.",
+    "labels": [
+      "Technology",
+      "Finance"
+    ]
+  },
+  {
+    "text": "Blockchain-based smart contracts are replacing traditional escrow services in real estate.",
+    "labels": [
+      "Technology",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new algorithmic trading system outperformed hedge fund managers over a five-year period.",
+    "labels": [
+      "Technology",
+      "Finance"
+    ]
+  },
+  {
+    "text": "Digital banking platforms are now processing more transactions than traditional bank branches.",
+    "labels": [
+      "Technology",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A crypto exchange launched a regulated stablecoin backed one-to-one by government bonds.",
+    "labels": [
+      "Technology",
+      "Finance"
+    ]
+  },
+  {
+    "text": "AI-powered fraud detection tools prevented $4 billion in credit card theft last year.",
+    "labels": [
+      "Technology",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new open banking API allowed third-party apps to offer personalized financial advice.",
+    "labels": [
+      "Technology",
+      "Finance"
+    ]
+  },
+  {
+    "text": "Quantum computing is being explored to break encryption protecting global financial systems.",
+    "labels": [
+      "Technology",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A robo-advisor platform crossed $100 billion in assets under management.",
+    "labels": [
+      "Technology",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A DeFi protocol processed more daily transactions than Visa for the first time.",
+    "labels": [
+      "Technology",
+      "Finance"
+    ]
+  },
+  {
+    "text": "Machine learning models now flag suspicious trading activity in real time on stock exchanges.",
+    "labels": [
+      "Technology",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new payments startup enabled cross-border transfers in seconds with near-zero fees.",
+    "labels": [
+      "Technology",
+      "Finance"
+    ]
+  },
+  {
+    "text": "Tokenized real estate allowed retail investors to buy fractional stakes in prime properties.",
+    "labels": [
+      "Technology",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A major bank deployed AI to screen millions of customer transactions for compliance issues.",
+    "labels": [
+      "Technology",
+      "Finance"
+    ]
+  },
+  {
+    "text": "An insurtech company used satellite imagery to assess crop damage claims automatically.",
+    "labels": [
+      "Technology",
+      "Finance"
+    ]
+  },
+  {
+    "text": "Generative AI is now drafting complex financial disclosure documents in minutes.",
+    "labels": [
+      "Technology",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new digital identity verification system reduced banking onboarding from days to minutes.",
+    "labels": [
+      "Technology",
+      "Finance"
+    ]
+  },
+  {
+    "text": "An AI-based credit scoring model extended loans to millions of previously unbanked individuals.",
+    "labels": [
+      "Technology",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A central bank launched a programmable digital currency that expires if not spent.",
+    "labels": [
+      "Technology",
+      "Finance"
+    ]
+  },
+  {
+    "text": "Decentralized finance platforms now offer yields that exceed traditional savings accounts.",
+    "labels": [
+      "Technology",
+      "Finance"
+    ]
+  },
+  {
+    "text": "An AI model predicted stock market corrections with 78% accuracy over two years.",
+    "labels": [
+      "Technology",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A neobank surpassed 10 million customers within 18 months of launch.",
+    "labels": [
+      "Technology",
+      "Finance"
+    ]
+  },
+  {
+    "text": "Blockchain-based bond issuance reduced settlement time from days to seconds.",
+    "labels": [
+      "Technology",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new embedded finance API allowed e-commerce platforms to offer instant credit at checkout.",
+    "labels": [
+      "Technology",
+      "Finance"
+    ]
+  },
+  {
+    "text": "High-frequency trading algorithms now account for over 70% of all equity trades.",
+    "labels": [
+      "Technology",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A startup used computer vision to assess vehicle damage instantly for insurance claims.",
+    "labels": [
+      "Technology",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new buy-now-pay-later platform integrated AI to assess repayment risk more fairly.",
+    "labels": [
+      "Technology",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A digital wallet reached one billion users, surpassing several traditional payment networks.",
+    "labels": [
+      "Technology",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new cybersecurity firm raised $1 billion to protect financial institutions from ransomware.",
+    "labels": [
+      "Technology",
+      "Finance"
+    ]
+  },
+  {
+    "text": "AI-powered treasury management systems saved corporations billions in idle cash management.",
+    "labels": [
+      "Technology",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A peer-to-peer lending platform used AI to cut default rates to below 1%.",
+    "labels": [
+      "Technology",
+      "Finance"
+    ]
+  },
+  {
+    "text": "Tokenized funds on a public blockchain settled trades in real time without intermediaries.",
+    "labels": [
+      "Technology",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new data analytics platform helped venture capital firms identify unicorn startups earlier.",
+    "labels": [
+      "Technology",
+      "Finance"
+    ]
+  },
+  {
+    "text": "Biometric authentication replaced PINs in mobile banking apps at over 200 institutions.",
+    "labels": [
+      "Technology",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new AI tool analyzed earnings call transcripts to predict stock movements accurately.",
+    "labels": [
+      "Technology",
+      "Finance"
+    ]
+  },
+  {
+    "text": "An automated tax filing service used AI to identify deductions missed by human accountants.",
+    "labels": [
+      "Technology",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A startup launched zero-fee stock trading for retail investors powered by payment for order flow.",
+    "labels": [
+      "Technology",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new platform uses satellite data to offer weather-based crop insurance to smallholder farmers.",
+    "labels": [
+      "Technology",
+      "Finance"
+    ]
+  },
+  {
+    "text": "Blockchain-based remittances grew 40% year-over-year as fees dropped below 1%.",
+    "labels": [
+      "Technology",
+      "Finance"
+    ]
+  },
+  {
+    "text": "AI-generated financial models are helping private equity firms value companies faster.",
+    "labels": [
+      "Technology",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A bank deployed a conversational AI that handles 80% of customer queries without human agents.",
+    "labels": [
+      "Technology",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new platform tokenized private equity funds, making them accessible to retail investors.",
+    "labels": [
+      "Technology",
+      "Finance"
+    ]
+  },
+  {
+    "text": "An AI system automatically rebalances pension fund portfolios to minimize risk.",
+    "labels": [
+      "Technology",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new cloud-based core banking platform reduced IT costs for mid-size banks by 60%.",
+    "labels": [
+      "Technology",
+      "Finance"
+    ]
+  },
+  {
+    "text": "Algorithmic lending platforms are disrupting the payday loan industry with fairer rates.",
+    "labels": [
+      "Technology",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new RegTech platform automates compliance reporting across 50 regulatory jurisdictions.",
+    "labels": [
+      "Technology",
+      "Finance"
+    ]
+  },
+  {
+    "text": "AI-powered personal finance apps improved savings rates among users by an average of 22%.",
+    "labels": [
+      "Technology",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A startup used natural language processing to extract data from millions of financial filings.",
+    "labels": [
+      "Technology",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A major insurer launched a usage-based car insurance product powered by telematics data.",
+    "labels": [
+      "Technology",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new digital asset exchange received banking licenses in three jurisdictions simultaneously.",
+    "labels": [
+      "Technology",
+      "Finance"
+    ]
+  },
+  {
+    "text": "Automation in manufacturing is displacing millions of low-skill jobs globally.",
+    "labels": [
+      "Technology",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A major semiconductor plant opened, expected to add $20 billion to regional GDP.",
+    "labels": [
+      "Technology",
+      "Economy"
+    ]
+  },
+  {
+    "text": "Generative AI tools are transforming white-collar work and reshaping labor markets.",
+    "labels": [
+      "Technology",
+      "Economy"
+    ]
+  },
+  {
+    "text": "E-commerce growth outpaced traditional retail for the fifth consecutive year.",
+    "labels": [
+      "Technology",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new report estimates AI will add $15 trillion to global economic output by 2030.",
+    "labels": [
+      "Technology",
+      "Economy"
+    ]
+  },
+  {
+    "text": "Gig economy platforms now employ more workers than the entire manufacturing sector.",
+    "labels": [
+      "Technology",
+      "Economy"
+    ]
+  },
+  {
+    "text": "The tech sector accounted for 30% of total stock market capitalization worldwide.",
+    "labels": [
+      "Technology",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A digital skills shortage is costing economies hundreds of billions in lost productivity.",
+    "labels": [
+      "Technology",
+      "Economy"
+    ]
+  },
+  {
+    "text": "Cloud computing adoption helped small businesses reduce overhead costs significantly.",
+    "labels": [
+      "Technology",
+      "Economy"
+    ]
+  },
+  {
+    "text": "Broadband infrastructure investments are estimated to boost rural economies by 20%.",
+    "labels": [
+      "Technology",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A wave of tech layoffs raised concerns about overinvestment in AI-related startups.",
+    "labels": [
+      "Technology",
+      "Economy"
+    ]
+  },
+  {
+    "text": "Platform economy workers are pushing for employment rights and social security coverage.",
+    "labels": [
+      "Technology",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new productivity study found AI tools boosted worker output by 40% in knowledge-intensive roles.",
+    "labels": [
+      "Technology",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A tech company's collapse wiped out thousands of jobs and $50 billion in market value.",
+    "labels": [
+      "Technology",
+      "Economy"
+    ]
+  },
+  {
+    "text": "Digital trade in services now accounts for a quarter of all global exports.",
+    "labels": [
+      "Technology",
+      "Economy"
+    ]
+  },
+  {
+    "text": "Countries investing heavily in AI research are pulling ahead in economic competitiveness.",
+    "labels": [
+      "Technology",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new industrial robot reduced production costs by 35% in the automotive sector.",
+    "labels": [
+      "Technology",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new report found that 40% of current jobs will be significantly automated within a decade.",
+    "labels": [
+      "Technology",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A government-funded AI research hub aims to attract $10 billion in foreign investment.",
+    "labels": [
+      "Technology",
+      "Economy"
+    ]
+  },
+  {
+    "text": "3D printing is enabling on-demand manufacturing, reducing inventory costs for businesses.",
+    "labels": [
+      "Technology",
+      "Economy"
+    ]
+  },
+  {
+    "text": "Tech monopolies are accused of stifling competition and suppressing innovation in smaller firms.",
+    "labels": [
+      "Technology",
+      "Economy"
+    ]
+  },
+  {
+    "text": "The creator economy grew to over $100 billion as platforms monetized user-generated content.",
+    "labels": [
+      "Technology",
+      "Economy"
+    ]
+  },
+  {
+    "text": "Smart logistics systems are reducing shipping costs for exporters in emerging markets.",
+    "labels": [
+      "Technology",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new data center cluster will require $30 billion in investment over the next decade.",
+    "labels": [
+      "Technology",
+      "Economy"
+    ]
+  },
+  {
+    "text": "Remote work technology permanently shifted economic activity away from city centers.",
+    "labels": [
+      "Technology",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A major tech merger raised antitrust concerns about concentration in the cloud market.",
+    "labels": [
+      "Technology",
+      "Economy"
+    ]
+  },
+  {
+    "text": "AI-driven personalization is increasing consumer spending on digital platforms.",
+    "labels": [
+      "Technology",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new report shows that digital infrastructure investment has a 3x return in GDP growth.",
+    "labels": [
+      "Technology",
+      "Economy"
+    ]
+  },
+  {
+    "text": "Drone delivery services are creating new logistics jobs in last-mile delivery.",
+    "labels": [
+      "Technology",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A national AI strategy is expected to create 500,000 new high-skilled jobs.",
+    "labels": [
+      "Technology",
+      "Economy"
+    ]
+  },
+  {
+    "text": "The sharing economy disrupted the hotel and taxi industries, reshaping urban economies.",
+    "labels": [
+      "Technology",
+      "Economy"
+    ]
+  },
+  {
+    "text": "AI-powered supply chain tools saved global retailers an estimated $500 billion last year.",
+    "labels": [
+      "Technology",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new electric vehicle gigafactory will employ 15,000 workers when fully operational.",
+    "labels": [
+      "Technology",
+      "Economy"
+    ]
+  },
+  {
+    "text": "Rising demand for data center power is straining electricity grids in major economies.",
+    "labels": [
+      "Technology",
+      "Economy"
+    ]
+  },
+  {
+    "text": "Countries with advanced chip manufacturing capacity are gaining geopolitical leverage.",
+    "labels": [
+      "Technology",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new wave of AI startups attracted record venture capital, fueling economic growth.",
+    "labels": [
+      "Technology",
+      "Economy"
+    ]
+  },
+  {
+    "text": "Digital agriculture platforms are increasing farm yields and rural incomes.",
+    "labels": [
+      "Technology",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new government program funds tech retraining for workers displaced by automation.",
+    "labels": [
+      "Technology",
+      "Economy"
+    ]
+  },
+  {
+    "text": "Cybercrime is costing the global economy an estimated $8 trillion annually.",
+    "labels": [
+      "Technology",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new satellite internet service expanded broadband access to 50 developing nations.",
+    "labels": [
+      "Technology",
+      "Economy"
+    ]
+  },
+  {
+    "text": "The electric vehicle transition is reshaping supply chains and job markets in auto-heavy regions.",
+    "labels": [
+      "Technology",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new fintech hub attracted 300 startups, adding $5 billion to the local economy.",
+    "labels": [
+      "Technology",
+      "Economy"
+    ]
+  },
+  {
+    "text": "AI translation tools are enabling small businesses to reach international markets.",
+    "labels": [
+      "Technology",
+      "Economy"
+    ]
+  },
+  {
+    "text": "Automation of accounting and legal services is disrupting professional services sectors.",
+    "labels": [
+      "Technology",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new platform economy index tracks the contribution of gig workers to national GDP.",
+    "labels": [
+      "Technology",
+      "Economy"
+    ]
+  },
+  {
+    "text": "Tech-driven productivity gains may offset the inflationary effects of tight labor markets.",
+    "labels": [
+      "Technology",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new quantum computing center aims to generate $2 billion in research partnerships.",
+    "labels": [
+      "Technology",
+      "Economy"
+    ]
+  },
+  {
+    "text": "Digital payments replaced cash as the dominant form of transactions in several countries.",
+    "labels": [
+      "Technology",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new study found AI adoption widens economic inequality between tech-savvy and traditional firms.",
+    "labels": [
+      "Technology",
+      "Economy"
+    ]
+  },
+  {
+    "text": "Smart grid technology is reducing energy waste and lowering utility costs for consumers.",
+    "labels": [
+      "Technology",
+      "Economy"
+    ]
+  },
+  {
+    "text": "AI-powered satellite imagery is tracking illegal deforestation in real time.",
+    "labels": [
+      "Technology",
+      "Environment"
+    ]
+  },
+  {
+    "text": "New solar panel efficiency records were set using perovskite-silicon tandem cells.",
+    "labels": [
+      "Technology",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A startup developed biodegradable electronics to combat the growing e-waste crisis.",
+    "labels": [
+      "Technology",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Drone swarms are being used to reforest burned areas at a rate of 100,000 trees per day.",
+    "labels": [
+      "Technology",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new AI model predicts extreme weather events 10 days earlier than current systems.",
+    "labels": [
+      "Technology",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Vertical farming powered by renewable energy is reducing agricultural land use.",
+    "labels": [
+      "Technology",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Scientists developed a recyclable EV battery that degrades 80% less than current lithium-ion cells.",
+    "labels": [
+      "Technology",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new smart water management system reduced urban water consumption by 30%.",
+    "labels": [
+      "Technology",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Ocean-monitoring buoys powered by wave energy provide real-time pollution data.",
+    "labels": [
+      "Technology",
+      "Environment"
+    ]
+  },
+  {
+    "text": "AI is being used to optimize shipping routes, cutting maritime carbon emissions by 15%.",
+    "labels": [
+      "Technology",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new plastic-eating enzyme engineered in a lab degrades PET bottles in 24 hours.",
+    "labels": [
+      "Technology",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Satellite data combined with AI is being used to forecast glacier melt with precision.",
+    "labels": [
+      "Technology",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new app allows consumers to scan product barcodes and see the full carbon footprint.",
+    "labels": [
+      "Technology",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Wind turbine efficiency improved 20% using AI-powered blade pitch optimization.",
+    "labels": [
+      "Technology",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new hydrogen fuel cell technology could replace diesel generators in remote communities.",
+    "labels": [
+      "Technology",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Precision fermentation technology is producing animal proteins without livestock.",
+    "labels": [
+      "Technology",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new satellite-based methane detection system can pinpoint leaks from oil fields globally.",
+    "labels": [
+      "Technology",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Researchers developed a solar-powered desalination unit costing less than $50 to build.",
+    "labels": [
+      "Technology",
+      "Environment"
+    ]
+  },
+  {
+    "text": "AI-optimized building systems reduced energy consumption in commercial real estate by 25%.",
+    "labels": [
+      "Technology",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new sensor network monitors soil health across thousands of farms simultaneously.",
+    "labels": [
+      "Technology",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Electric aircraft completed their first commercial passenger route, cutting aviation emissions.",
+    "labels": [
+      "Technology",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A digital twin of a city helped planners reduce its carbon footprint by 18%.",
+    "labels": [
+      "Technology",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Scientists used AI to discover 50 new materials suitable for carbon capture applications.",
+    "labels": [
+      "Technology",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new low-power wireless sensor can monitor air quality across entire cities.",
+    "labels": [
+      "Technology",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Robotic systems are cleaning up microplastics from rivers more efficiently than human teams.",
+    "labels": [
+      "Technology",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new grid-scale battery technology enabled 100% renewable energy for an entire region.",
+    "labels": [
+      "Technology",
+      "Environment"
+    ]
+  },
+  {
+    "text": "AI tools are helping conservation biologists track endangered species more accurately.",
+    "labels": [
+      "Technology",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new app connected businesses with surplus food to charities, reducing landfill waste.",
+    "labels": [
+      "Technology",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Smart irrigation systems using satellite data reduced crop water use by 40%.",
+    "labels": [
+      "Technology",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Geothermal energy exploration improved dramatically using AI-based seismic analysis.",
+    "labels": [
+      "Technology",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new solar film can be applied to windows to generate electricity without blocking views.",
+    "labels": [
+      "Technology",
+      "Environment"
+    ]
+  },
+  {
+    "text": "AI-designed enzymes break down pesticides in soil without harming native microbes.",
+    "labels": [
+      "Technology",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Blockchain is being used to create transparent and tamper-proof carbon offset markets.",
+    "labels": [
+      "Technology",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new tidal energy turbine can generate electricity from low-speed ocean currents.",
+    "labels": [
+      "Technology",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Machine learning models are predicting coral bleaching events weeks in advance.",
+    "labels": [
+      "Technology",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new electric ferry service replaced a heavily polluting diesel route across a major estuary.",
+    "labels": [
+      "Technology",
+      "Environment"
+    ]
+  },
+  {
+    "text": "AI tools are identifying the most effective reforestation species for each microclimate.",
+    "labels": [
+      "Technology",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new closed-loop recycling technology recovers 95% of rare earth metals from old electronics.",
+    "labels": [
+      "Technology",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Remote sensing technology revealed hidden groundwater reserves beneath the Sahara.",
+    "labels": [
+      "Technology",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new platform allows cities to trade surplus renewable energy peer-to-peer.",
+    "labels": [
+      "Technology",
+      "Environment"
+    ]
+  },
+  {
+    "text": "AI-powered wildfire prediction models are helping authorities pre-position firefighting resources.",
+    "labels": [
+      "Technology",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new aerogel insulation developed from recycled glass reduces building heat loss by 50%.",
+    "labels": [
+      "Technology",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Thermal imaging drones are detecting heat loss in buildings to prioritize insulation upgrades.",
+    "labels": [
+      "Technology",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new floating solar farm on a reservoir reduced evaporation and generated clean energy.",
+    "labels": [
+      "Technology",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Scientists developed a fog-harvesting mesh that supplies clean water in arid regions.",
+    "labels": [
+      "Technology",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new platform uses crowd-sourced data to map biodiversity in urban green spaces.",
+    "labels": [
+      "Technology",
+      "Environment"
+    ]
+  },
+  {
+    "text": "AI algorithms are predicting fish stock levels to prevent over-fishing before it occurs.",
+    "labels": [
+      "Technology",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new carbon capture plant powered by renewable energy removes CO2 at a record low cost.",
+    "labels": [
+      "Technology",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Scientists used genetic data and AI to model the collapse of bee populations under climate stress.",
+    "labels": [
+      "Technology",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new wave energy converter powers an entire island community without fossil fuels.",
+    "labels": [
+      "Technology",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Rising insurance premiums are forcing millions of Americans to forgo preventive care.",
+    "labels": [
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new health savings account model increased retirement preparedness among workers.",
+    "labels": [
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "Private equity acquisition of hospitals is linked to higher costs and worse outcomes.",
+    "labels": [
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new law capping out-of-pocket medical expenses provided relief to millions of families.",
+    "labels": [
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A biotech firm raised $3 billion in an IPO to fund its cancer drug pipeline.",
+    "labels": [
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "Medical debt is the leading cause of personal bankruptcy in the United States.",
+    "labels": [
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new microinsurance product in Africa covers families for hospital stays at $2 per month.",
+    "labels": [
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A pharmaceutical giant was fined $5 billion for deceptive marketing of opioid painkillers.",
+    "labels": [
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "Health systems are adopting value-based care models to align financial incentives with outcomes.",
+    "labels": [
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new bond issuance by a hospital network funded a major cancer treatment center.",
+    "labels": [
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "Mental health startups attracted record venture capital investment this year.",
+    "labels": [
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new report found that preventive health spending saves $5 for every $1 invested.",
+    "labels": [
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "Drug pricing reform passed after years of lobbying, reducing costs for patients.",
+    "labels": [
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new pay-for-performance model rewarded doctors for keeping patients out of hospital.",
+    "labels": [
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "Obesity-related healthcare costs are expected to reach $1 trillion annually by 2035.",
+    "labels": [
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new pharmaceutical fund offered lower drug prices to low-income countries via tiered pricing.",
+    "labels": [
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A global health insurer launched a product specifically for freelancers and gig workers.",
+    "labels": [
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new law required hospitals to publish prices transparently, ending hidden billing.",
+    "labels": [
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "Aging populations are straining both pension systems and healthcare budgets simultaneously.",
+    "labels": [
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A wellness company went public at a $10 billion valuation on the back of subscription growth.",
+    "labels": [
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new social impact bond funds mental health services and repays investors if outcomes improve.",
+    "labels": [
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "Hospital consolidation is reducing competition and raising costs for patients and insurers.",
+    "labels": [
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new financing model lets patients pay for elective surgery in installments interest-free.",
+    "labels": [
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "Venture capital poured $20 billion into women's health startups over the past three years.",
+    "labels": [
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new nutrition labeling law helped consumers make healthier choices, reducing disease costs.",
+    "labels": [
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A country introduced a sugar tax, cutting consumption and raising funds for public health.",
+    "labels": [
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A landmark settlement forced an opioid manufacturer to fund addiction treatment programs.",
+    "labels": [
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "High drug costs forced one in four patients to skip doses or split pills to save money.",
+    "labels": [
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new community health worker model reduced emergency room visits and saved hospitals millions.",
+    "labels": [
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "An insurer launched a dividend model that returns profits to members who stay healthy.",
+    "labels": [
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A government-funded dental care expansion covered 10 million previously uninsured adults.",
+    "labels": [
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "Healthcare is now the largest employment sector in many developed economies.",
+    "labels": [
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new report found that workplace wellness programs reduce absenteeism and insurance costs.",
+    "labels": [
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A generic drug shortage drove up prices for essential medicines in multiple countries.",
+    "labels": [
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A health REIT invested $5 billion in senior living facilities to meet aging population demand.",
+    "labels": [
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new outcome-based drug pricing model ties pharmaceutical company revenues to patient results.",
+    "labels": [
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A hospital system's bankruptcy left thousands of patients scrambling for alternative care.",
+    "labels": [
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new index fund tracking global pharmaceutical companies attracted billions from ESG investors.",
+    "labels": [
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "Rising healthcare costs are a leading reason employees refuse to change jobs.",
+    "labels": [
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new community health bond raised funds to build clinics in underserved rural areas.",
+    "labels": [
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A major insurer merged with a pharmacy chain to offer integrated care models.",
+    "labels": [
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new report shows medical tourism saved patients an average of 60% on elective procedures.",
+    "labels": [
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A startup developed a platform that negotiates medical bills on behalf of patients.",
+    "labels": [
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "Pharmaceutical lobbying spending hit a record $400 million in a single legislative session.",
+    "labels": [
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new model reimburses primary care doctors monthly per patient, reducing unnecessary tests.",
+    "labels": [
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "Gene therapy prices exceeding $3 million per treatment are straining insurer balance sheets.",
+    "labels": [
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new pandemic preparedness fund was established by G20 nations with $10 billion in capital.",
+    "labels": [
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A private equity firm's hospital network was sold after failing to improve patient outcomes.",
+    "labels": [
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "Employers are offering expanded mental health benefits to compete for talent.",
+    "labels": [
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new plan allowed individuals to deduct gym membership fees from their taxable income.",
+    "labels": [
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "Long COVID is estimated to cost the global economy over $1 trillion in lost productivity.",
+    "labels": [
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A healthy workforce is cited as the number-one factor in economic competitiveness by CEOs.",
+    "labels": [
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new public health program reduced absenteeism and boosted GDP in low-income nations.",
+    "labels": [
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "Mental health disorders cost the global economy $2.5 trillion annually in lost output.",
+    "labels": [
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "An aging population is shrinking the labor force and threatening economic growth in Japan.",
+    "labels": [
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "Expanding universal healthcare coverage increased labor force participation rates.",
+    "labels": [
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "The pharmaceutical industry contributed over $1 trillion to the US economy last year.",
+    "labels": [
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new malaria eradication program is expected to unlock $50 billion in economic gains in Africa.",
+    "labels": [
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "Childhood malnutrition reduces lifetime earnings by up to 10%, a new study finds.",
+    "labels": [
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "The opioid crisis cost the US economy an estimated $600 billion in a single year.",
+    "labels": [
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new occupational health standard reduced workplace injuries and boosted firm productivity.",
+    "labels": [
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "Access to affordable childcare is linked to higher female labor force participation.",
+    "labels": [
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new nutrition policy cut sick days and improved worker output across the manufacturing sector.",
+    "labels": [
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "Pandemic preparedness investments deliver a 15x return in avoided economic losses.",
+    "labels": [
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new vaccine reduced infant mortality in West Africa, improving long-run human capital.",
+    "labels": [
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "Rising obesity rates are reducing workforce productivity and increasing disability claims.",
+    "labels": [
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "Universal mental health coverage was linked to a 5% increase in employment rates.",
+    "labels": [
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "Alcohol abuse costs the global economy more than $250 billion per year in lost productivity.",
+    "labels": [
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A free school meals program improved student concentration and reduced educational inequality.",
+    "labels": [
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "Workplace stress is estimated to cost US employers $300 billion annually.",
+    "labels": [
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new public smoking ban reduced healthcare costs and increased restaurant revenues.",
+    "labels": [
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "An HIV prevention program averted millions of new infections, saving trillions in care costs.",
+    "labels": [
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "Poor air quality costs the global economy over $5 trillion per year in health damages.",
+    "labels": [
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new wellness incentive program reduced employee turnover and saved companies millions.",
+    "labels": [
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "The global fitness industry surpassed $100 billion as consumer health awareness grew.",
+    "labels": [
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new report found clean drinking water access boosted rural economic productivity by 20%.",
+    "labels": [
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "Preventable diseases reduce GDP by an average of 1.5% annually in developing countries.",
+    "labels": [
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new public health campaign to reduce salt intake cut hospital admissions and healthcare costs.",
+    "labels": [
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "Rising dementia rates threaten to overwhelm both public health budgets and informal caregivers.",
+    "labels": [
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new maternal health program reduced infant mortality and increased women's workforce participation.",
+    "labels": [
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "The biotechnology sector added 500,000 jobs in a single year amid a research boom.",
+    "labels": [
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A successful vaccination drive reduced child hospitalizations and freed up healthcare capacity.",
+    "labels": [
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new study found universal healthcare reduces household financial insecurity significantly.",
+    "labels": [
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "Integrating mental health services into primary care saved $4 for every $1 spent.",
+    "labels": [
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new early intervention program for developmental disorders reduced lifetime support costs.",
+    "labels": [
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "An epidemic of non-communicable diseases is reversing decades of economic progress in developing nations.",
+    "labels": [
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "Subsidized gym memberships through national insurance cut chronic disease rates and saved money.",
+    "labels": [
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new clean cooking fuel program reduced respiratory disease and boosted rural productivity.",
+    "labels": [
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "The nurse shortage is threatening healthcare delivery capacity and straining economies globally.",
+    "labels": [
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new poverty-reduction program improved diet quality and reduced health expenditures among recipients.",
+    "labels": [
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "Investing in girls' health and education is estimated to yield a 10x return in GDP growth.",
+    "labels": [
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new employer mental health mandate reduced presenteeism and increased output.",
+    "labels": [
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "Rising rates of Type 2 diabetes are expected to cost economies $2 trillion by 2030.",
+    "labels": [
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new global health security treaty aims to prevent pandemic-induced economic collapses.",
+    "labels": [
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new nutrition fortification program improved cognitive development and school performance in children.",
+    "labels": [
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "Paid family leave programs improved infant health outcomes and increased maternal employment.",
+    "labels": [
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new report found that loneliness costs employers more annually than physical illness.",
+    "labels": [
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A community health worker program in India added billions to local economic output.",
+    "labels": [
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "Investing in dementia research could save economies $1 trillion over the next two decades.",
+    "labels": [
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "An epidemic of burnout is reducing productivity and increasing staff turnover across sectors.",
+    "labels": [
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "Air pollution now causes more deaths globally than smoking, according to a new study.",
+    "labels": [
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Children in cities with high pollution levels have significantly smaller lung capacity.",
+    "labels": [
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Rising temperatures are expanding the range of malaria-carrying mosquitoes into Europe.",
+    "labels": [
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Exposure to microplastics is linked to inflammation and increased cancer risk.",
+    "labels": [
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new study found heavy metals in drinking water near mining sites causing kidney disease.",
+    "labels": [
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A green hospital design initiative cut energy use and reduced hospital-acquired infections.",
+    "labels": [
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Wildfire smoke caused a surge in hospital admissions for respiratory illness across the west.",
+    "labels": [
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Toxic algal blooms fed by agricultural runoff are poisoning drinking water supplies.",
+    "labels": [
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new study found that noise pollution from traffic increases the risk of heart disease.",
+    "labels": [
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Heatwaves caused a record number of heat-related deaths among outdoor workers this summer.",
+    "labels": [
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Ocean pollution is contaminating seafood with toxins that accumulate in human tissue.",
+    "labels": [
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Urban green spaces are linked to lower rates of depression and anxiety in residents.",
+    "labels": [
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new climate change report warns of up to 250,000 additional deaths per year by 2030.",
+    "labels": [
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "PFAS chemicals in water supplies are being linked to thyroid disorders and certain cancers.",
+    "labels": [
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new nature prescription program sends patients to parks and nature reserves for therapy.",
+    "labels": [
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Food insecurity caused by climate-related crop failures is increasing malnutrition rates.",
+    "labels": [
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Pesticide exposure in farming communities is linked to elevated rates of Parkinson's disease.",
+    "labels": [
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Rising temperatures are increasing the virulence and spread of waterborne diseases.",
+    "labels": [
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new study found that hospital patients with window views of nature recover faster.",
+    "labels": [
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Indoor air pollution from cooking fires kills 3.2 million people annually, mostly in Asia and Africa.",
+    "labels": [
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new study links increased pollen seasons to rising allergies in urban populations.",
+    "labels": [
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A diet high in plant-based foods reduces carbon footprint and lowers cardiovascular risk.",
+    "labels": [
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Mercury contamination from illegal gold mining is causing neurological damage in Amazon communities.",
+    "labels": [
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new clean air plan reduced nitrogen dioxide levels in cities, cutting asthma hospitalizations.",
+    "labels": [
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Flooding events contaminate water supplies and trigger outbreaks of cholera and typhoid.",
+    "labels": [
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Light pollution from cities is disrupting sleep cycles in millions of urban residents.",
+    "labels": [
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new study found that children who spend more time outdoors have better mental health.",
+    "labels": [
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Drought-induced food shortages are increasing stunting rates in vulnerable populations.",
+    "labels": [
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new report warns that climate change will reverse decades of progress on maternal mortality.",
+    "labels": [
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Pharmaceutical pollution in rivers is creating antibiotic-resistant bacteria in waterways.",
+    "labels": [
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Extreme heat events are increasing premature births in cities without adequate green cover.",
+    "labels": [
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new study found that lead exposure in early childhood reduces IQ and lifetime earnings.",
+    "labels": [
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Air quality monitors installed in schools revealed that children breathe dangerously polluted air.",
+    "labels": [
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Algal blooms in recreational waters are causing skin rashes and liver damage in swimmers.",
+    "labels": [
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new campaign promotes walking and cycling to reduce both emissions and physical inactivity.",
+    "labels": [
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A study found children raised near heavy traffic have higher rates of autism spectrum disorder.",
+    "labels": [
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Deforestation is accelerating the spillover of animal viruses into human populations.",
+    "labels": [
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new international agreement on plastic pollution will protect both ocean ecosystems and human health.",
+    "labels": [
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Soil contamination near industrial sites is linked to elevated cancer risks in local communities.",
+    "labels": [
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Increasing temperatures are reducing the effectiveness of vaccines stored in non-refrigerated clinics.",
+    "labels": [
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new active travel initiative reduced childhood obesity and cut transport emissions.",
+    "labels": [
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A study linked wildfire smoke exposure during pregnancy to increased rates of preterm birth.",
+    "labels": [
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new coalition is pushing for pollution-free corridors around schools and hospitals.",
+    "labels": [
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new report found that climate grief is a growing mental health concern among young people.",
+    "labels": [
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Water scarcity is forcing families to use contaminated sources, spreading waterborne disease.",
+    "labels": [
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Organic farming communities showed lower rates of pesticide-related illness than conventional ones.",
+    "labels": [
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new study found mold in flood-damaged homes is causing chronic respiratory illness.",
+    "labels": [
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Improving indoor air quality in offices reduced sick days by 35% in a major study.",
+    "labels": [
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Excessive heat is reducing sleep quality in tropical regions, impacting public health.",
+    "labels": [
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Rewilding urban areas reduced urban heat island effects and improved resident mental health.",
+    "labels": [
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Rising interest rates dampened consumer borrowing and slowed economic growth.",
+    "labels": [
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new report warned that sovereign debt levels pose a systemic risk to global stability.",
+    "labels": [
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "The central bank raised its benchmark rate for the fifth consecutive meeting.",
+    "labels": [
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "Foreign direct investment fell 20% amid rising geopolitical uncertainty.",
+    "labels": [
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A credit rating agency downgraded the country's debt, triggering a bond market selloff.",
+    "labels": [
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "Bank lending to small businesses declined sharply as credit conditions tightened.",
+    "labels": [
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new report found that wealth inequality reached its highest level in a century.",
+    "labels": [
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "The stock market entered a bear market as recession fears gripped investors.",
+    "labels": [
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new fiscal stimulus package aimed to boost growth without reigniting inflation.",
+    "labels": [
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A record current account surplus strengthened the nation's currency significantly.",
+    "labels": [
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A major economy reported its first budget surplus in 20 years.",
+    "labels": [
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new pension reform reduced replacement rates, sparking nationwide protests.",
+    "labels": [
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "The housing market correction wiped $3 trillion from household net worth.",
+    "labels": [
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A major bank collapsed after a run triggered by social media-spread panic.",
+    "labels": [
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new minimum wage increase boosted consumer spending but raised costs for small businesses.",
+    "labels": [
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "Government bond yields rose to decade highs as debt-to-GDP ratios climbed.",
+    "labels": [
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new austerity budget cut public services and triggered a sharp drop in consumer confidence.",
+    "labels": [
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A currency crisis wiped 30% off the value of the local currency in a single week.",
+    "labels": [
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new trade surplus bolstered foreign exchange reserves to record levels.",
+    "labels": [
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "Financial market volatility spiked as investors priced in a potential debt ceiling crisis.",
+    "labels": [
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new government debt management strategy reduced refinancing risk over the next decade.",
+    "labels": [
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A sharp rise in corporate insolvencies signaled distress in the broader economy.",
+    "labels": [
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "Consumer credit card balances hit record highs as households struggled with rising costs.",
+    "labels": [
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new sovereign wealth fund will invest resource revenues for future generations.",
+    "labels": [
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "Capital flight from emerging markets accelerated as the US dollar strengthened.",
+    "labels": [
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new report linked loose monetary policy to unsustainable asset price bubbles.",
+    "labels": [
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A landmark bank bailout averted a broader financial system collapse.",
+    "labels": [
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "Rising non-performing loans at regional banks signaled broader economic stress.",
+    "labels": [
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new government guarantee scheme encouraged banks to lend to startup businesses.",
+    "labels": [
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new economic model projects that aging demographics will cut growth by 1% per year.",
+    "labels": [
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "Treasury yields inverted, historically a reliable signal of an upcoming recession.",
+    "labels": [
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A major economy reported its fastest economic growth in 30 years after a boom in exports.",
+    "labels": [
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new wealth tax on billionaires was proposed to fund public infrastructure investment.",
+    "labels": [
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "Corporate tax reforms attracted multinational headquarters relocations to the country.",
+    "labels": [
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new law capping credit card interest rates provided relief to millions of indebted consumers.",
+    "labels": [
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new economic development zone attracted $10 billion in private sector investment.",
+    "labels": [
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "Private sector wages outpaced inflation for the first time in five years.",
+    "labels": [
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new bond market index tracked green bond performance for the first time.",
+    "labels": [
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new study found that financial inclusion boosts economic growth in developing nations.",
+    "labels": [
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A wave of corporate mergers raised fears of reduced market competition and higher prices.",
+    "labels": [
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new universal basic income trial showed mixed effects on employment and wellbeing.",
+    "labels": [
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "Remittance flows to developing nations surpassed foreign aid for the first time in history.",
+    "labels": [
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new bank stress test revealed vulnerabilities in mid-size lenders exposed to commercial real estate.",
+    "labels": [
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new employment subsidy scheme helped businesses retain workers during the economic downturn.",
+    "labels": [
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A record trade deficit raised concerns about the nation's long-run economic competitiveness.",
+    "labels": [
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new report showed microfinance loans reduced poverty and boosted small business creation.",
+    "labels": [
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "Falling productivity growth is the defining economic challenge of the next decade.",
+    "labels": [
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new infrastructure bank will provide long-term financing for public works projects.",
+    "labels": [
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A central bank intervention stabilized the currency and restored investor confidence.",
+    "labels": [
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new plan to restructure national debt averted a sovereign default and economic collapse.",
+    "labels": [
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "ESG investing now accounts for one third of all professionally managed assets globally.",
+    "labels": [
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new green bond issuance raised $5 billion to fund renewable energy infrastructure.",
+    "labels": [
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A major insurer exited coal markets, signaling a systemic shift in climate risk pricing.",
+    "labels": [
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Carbon credits traded at a record price on the European emissions trading market.",
+    "labels": [
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new climate risk disclosure mandate forced publicly listed companies to report carbon exposure.",
+    "labels": [
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new green mortgage product offers lower rates to buyers of energy-efficient homes.",
+    "labels": [
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Fossil fuel divestment campaigns cost coal companies an estimated $100 billion in lost investment.",
+    "labels": [
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new catastrophe bond protects a Pacific island nation against climate-related disasters.",
+    "labels": [
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A pension fund pledged to make its entire portfolio net-zero by 2040.",
+    "labels": [
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new tax on financial transactions will fund climate adaptation in vulnerable nations.",
+    "labels": [
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new environmental liability framework holds banks accountable for clients' pollution.",
+    "labels": [
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Green bond issuance broke records for the third straight year, reaching $1 trillion.",
+    "labels": [
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new fund invests exclusively in companies with science-based climate targets.",
+    "labels": [
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Climate risks are being priced into coastal real estate valuations for the first time.",
+    "labels": [
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A major bank launched a $100 billion sustainable finance initiative over five years.",
+    "labels": [
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new carbon offset marketplace enables companies to buy credits from verified projects.",
+    "labels": [
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A sovereign green bond program helped the government raise funds for forest conservation.",
+    "labels": [
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new report found greenwashing in 40% of self-labeled ESG investment products.",
+    "labels": [
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A wildfire risk fund provides financial relief to communities in fire-prone regions.",
+    "labels": [
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Institutional investors pulled $500 billion from oil and gas sectors citing stranded asset risk.",
+    "labels": [
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new nature-based solutions fund raised $2 billion to restore mangroves and wetlands.",
+    "labels": [
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new biodiversity credit market is emerging alongside carbon credit markets.",
+    "labels": [
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Insurance losses from natural disasters hit a record $400 billion last year.",
+    "labels": [
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new EU taxonomy defined which investments qualify as environmentally sustainable.",
+    "labels": [
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A hedge fund shorting fossil fuel companies returned 40% amid the energy transition.",
+    "labels": [
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new transition finance framework funds heavy emitters to decarbonize, not just green firms.",
+    "labels": [
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new blue bond financed ocean conservation and sustainable fisheries management.",
+    "labels": [
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A development bank committed $10 billion to flood-resilient infrastructure in coastal cities.",
+    "labels": [
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new regulation requires banks to stress-test loan books against climate scenarios.",
+    "labels": [
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new study found that green bond issuers outperformed conventional bond issuers over five years.",
+    "labels": [
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new private equity fund acquires and restores degraded agricultural land for carbon credits.",
+    "labels": [
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Rising insurance costs for flood-prone properties are accelerating migration away from coasts.",
+    "labels": [
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new environmental bond from a city government funded a zero-emission public transit fleet.",
+    "labels": [
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new global carbon border adjustment mechanism changed investment flows in energy-intensive industries.",
+    "labels": [
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Shareholders at a major oil company voted to fast-track the transition to renewable energy.",
+    "labels": [
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new report found that climate change could cut global financial assets by 17%.",
+    "labels": [
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A major reinsurer raised premiums dramatically for coastal properties facing rising sea levels.",
+    "labels": [
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new deforestation-linked bond mechanism penalizes countries that fail to protect forests.",
+    "labels": [
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new impact fund earmarks all returns above a benchmark to biodiversity restoration.",
+    "labels": [
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new sustainable supply chain finance program rewards suppliers for lower emissions.",
+    "labels": [
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new regulation barred financial advisors from recommending funds with poor environmental ratings.",
+    "labels": [
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new climate insurance product helps smallholder farmers recover from drought and floods.",
+    "labels": [
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new environmental stress test revealed significant climate exposure in major bank portfolios.",
+    "labels": [
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new social equity bond funds community resilience projects in climate-vulnerable neighborhoods.",
+    "labels": [
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new law holds asset managers legally liable for failing to disclose climate investment risks.",
+    "labels": [
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new study showed that sustainable portfolios outperformed traditional ones over a 10-year period.",
+    "labels": [
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new debt-for-nature swap converted $1 billion in national debt into conservation commitments.",
+    "labels": [
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A major investment bank launched a proprietary climate risk scoring system for all assets.",
+    "labels": [
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new environmental claims court allows citizens to sue companies for pollution-related damages.",
+    "labels": [
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new green covered bond framework allows banks to raise lower-cost funds for clean energy projects.",
+    "labels": [
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Climate change could cut global GDP by 10% by the end of the century, economists warn.",
+    "labels": [
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new carbon tax raised government revenue while incentivizing firms to reduce emissions.",
+    "labels": [
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Extreme weather events cost the global economy over $300 billion in damages last year.",
+    "labels": [
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "The transition to renewable energy is expected to create 24 million new jobs globally.",
+    "labels": [
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Drought-related agricultural losses shaved 1.5% off GDP in a major grain-producing nation.",
+    "labels": [
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new cap-and-trade scheme drove down emissions while generating billions in government revenue.",
+    "labels": [
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Rising food prices caused by climate-related harvest failures fueled inflation globally.",
+    "labels": [
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new report found that nature-based solutions deliver $10 in economic benefits for every $1 spent.",
+    "labels": [
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Coastal erosion is threatening property values and local economies in low-lying nations.",
+    "labels": [
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new green industrial strategy aimed to make the country a leading exporter of clean technology.",
+    "labels": [
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Rising commodity prices driven by climate supply disruptions are squeezing manufacturing margins.",
+    "labels": [
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new environmental subsidy scheme helped farmers transition to sustainable agriculture.",
+    "labels": [
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "The economic cost of air pollution exceeds the GDP of many mid-sized nations annually.",
+    "labels": [
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Fisheries collapse linked to ocean warming threatens the livelihoods of 600 million people.",
+    "labels": [
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new circular economy initiative is expected to generate $4.5 trillion globally by 2030.",
+    "labels": [
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Flooding destroyed key infrastructure, costing the regional economy billions in repairs.",
+    "labels": [
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new payment for ecosystem services scheme compensated farmers for protecting watersheds.",
+    "labels": [
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Plastic pollution is costing the marine tourism industry $13 billion in lost revenue annually.",
+    "labels": [
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new green recovery plan allocated $500 billion to decarbonize the national economy.",
+    "labels": [
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "The energy transition will strand $1 trillion in fossil fuel assets within a decade.",
+    "labels": [
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new environmental performance standard boosted export competitiveness in green sectors.",
+    "labels": [
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Reduced snowfall is devastating ski resort economies across the European Alps.",
+    "labels": [
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new environmental import tax levelled the playing field for domestic producers with green standards.",
+    "labels": [
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Biodiversity loss is estimated to cost the global economy $10 trillion annually by 2050.",
+    "labels": [
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new blue economy strategy developed sustainable ocean industries worth $5 billion.",
+    "labels": [
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "The collapse of a major river ecosystem devastated fishing and agriculture industries downstream.",
+    "labels": [
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new national parks expansion program generated $3 in tourism revenue for every $1 invested.",
+    "labels": [
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Rising heat is reducing outdoor labor productivity across South and Southeast Asia.",
+    "labels": [
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new sustainability fund supports SMEs in transitioning to lower-carbon supply chains.",
+    "labels": [
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Deforestation reduced rainfall patterns in a major agricultural region, cutting crop yields.",
+    "labels": [
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new tax incentive for green renovation created 200,000 jobs in the construction sector.",
+    "labels": [
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Flooding of port infrastructure disrupted trade and cost the economy billions.",
+    "labels": [
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new economic model showed the cost of inaction on climate exceeds mitigation costs tenfold.",
+    "labels": [
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "The fishing sector contracted 20% after overfishing depleted key commercial fish stocks.",
+    "labels": [
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new green shipping zone reduced port emissions and boosted the local economy through eco-tourism.",
+    "labels": [
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new environmental land reform program improved soil health and boosted farm profitability.",
+    "labels": [
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Climate migration is reshaping labor markets and placing pressure on urban infrastructure.",
+    "labels": [
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new study found that urban greening projects increase surrounding property values by 15%.",
+    "labels": [
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new report found that sustainable tourism generates twice the local economic return of mass tourism.",
+    "labels": [
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Rising energy costs driven by extreme heat waves hit low-income households hardest.",
+    "labels": [
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new economic analysis found that protecting forests is cheaper than replacing their services.",
+    "labels": [
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new environmental performance bond scheme rewards countries for meeting biodiversity targets.",
+    "labels": [
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A water pricing reform reduced waste and generated funds for infrastructure maintenance.",
+    "labels": [
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new program pays landowners to restore wetlands, creating jobs and storing carbon.",
+    "labels": [
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Rising insurance premiums in flood-prone areas are reducing property values and economic activity.",
+    "labels": [
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new study found that decarbonizing the steel industry could create 250,000 new jobs.",
+    "labels": [
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Climate-related crop failures pushed food prices to their highest level in 40 years.",
+    "labels": [
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new economic resilience index ranks countries by their ability to withstand climate shocks.",
+    "labels": [
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new forest economy model generates income for local communities while preserving biodiversity.",
+    "labels": [
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "The clean energy sector now employs more workers than the fossil fuel industry in many countries.",
+    "labels": [
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new AI diagnostic startup raised $500 million to expand cancer screening in underserved markets.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A blockchain-based health insurance platform eliminated claim fraud, saving insurers billions.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new digital health IPO priced at $20 billion amid soaring investor interest in medtech.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "An AI drug discovery company partnered with a pharma giant in a $3 billion deal.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new health data marketplace allowed patients to monetize their anonymized medical records.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A fintech startup offered micro-health insurance via mobile phone in developing nations.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "Wearable health monitors reduced life insurance premiums for policyholders who stayed active.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new AI-based drug pricing tool helped payers negotiate lower costs for specialty medicines.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A digital pharmacy raised $1 billion to disrupt the traditional pharmaceutical supply chain.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new telemedicine platform launched its own health insurance product for digital-first consumers.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "An AI model reduced unnecessary medical procedures, saving the healthcare system $10 billion.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new genomics startup went public and used proceeds to fund precision oncology clinical trials.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new app allowed users to track health goals and earn insurance discounts in real time.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A medical device company used AI to halve the development cost of its latest cardiac monitor.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new digital mental health platform secured reimbursement from major insurers for its app.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A health tech company raised $2 billion to roll out AI-powered clinics in rural communities.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new health bond was issued to fund AI diagnostics rollout in low-income countries.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new algorithm reduced hospital billing errors, recovering $4 billion in lost revenue.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A biotech firm used AI to cut drug trial costs by 50%, unlocking new investment.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new platform connected clinical trial participants with pharmaceutical companies, reducing costs.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new AI-based credentialing system cut provider onboarding time and administrative costs.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new pandemic bond issued by the World Bank used AI triggers to release funds automatically.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new digital imaging company used AI to reduce diagnostic costs and expand coverage in Africa.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new health tech fund dedicated $500 million to solving healthcare access in emerging markets.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "An AI-driven claims processing system cut insurance overhead costs by 60%.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new hospital management software platform reduced waste and saved health systems billions.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new biosimilar marketplace used AI to match patients with the most cost-effective treatment.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new digital therapeutics company was acquired for $5 billion by a major global insurer.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new robotic pharmacy system reduced dispensing errors and cut medication costs for hospitals.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new impact fund invested in AI tools proven to reduce preventable deaths in hospitals.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new mobile health platform in Africa offered pay-per-use diagnostics to uninsured patients.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A precision medicine company raised $1 billion to develop individualized cancer treatments.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new AI triage system cut emergency department wait times and reduced hospital operating costs.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A health data analytics firm IPO'd at a $4 billion valuation on the back of insurer contracts.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new digital-only insurance product for chronic disease patients used wearables to price risk.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A medical AI startup attracted sovereign wealth fund investment to scale globally.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new remote patient monitoring program reduced hospital costs by $2,000 per patient annually.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new AI-driven prior authorization system reduced insurer costs and improved patient access.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new lab-on-chip technology reduced diagnostic costs from hundreds of dollars to under ten.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new vaccine cold-chain tracking system using IoT reduced waste and saved procurement budgets.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new medtech SPAC raised $300 million to acquire AI-powered remote monitoring companies.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A digital-first GP practice raised $400 million to expand across five new markets.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new oncology AI tool was approved and reimbursed by health systems in 10 countries.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new health impact bond uses wearable data to reward participants for improving their health.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new AI model predicts hospital readmissions, helping insurers reduce costly repeat admissions.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new health savings account platform uses AI to help users invest surplus funds optimally.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A robotic surgery company raised $3 billion to expand into markets with low surgeon-to-patient ratios.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new AI-guided clinical trial design reduced average trial costs by $200 million per drug.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A new genomics data platform raised capital to sequence one million genomes in developing nations.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "A mental health AI startup reached unicorn status after securing coverage from major insurers.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Finance"
+    ]
+  },
+  {
+    "text": "AI-driven healthcare could add $13 trillion to the global economy while saving millions of lives.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new digital health infrastructure investment is expected to create 300,000 jobs.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "Telemedicine expansion boosted rural economic productivity by reducing time lost to medical travel.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new health AI platform is helping developing economies leapfrog traditional healthcare models.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "The medtech sector grew 15% year-over-year, now accounting for 5% of GDP in major economies.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "Rising demand for AI diagnostic tools is creating new high-skilled jobs in healthcare technology.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new digital health passport system enabled workers to return faster and boosted economic recovery.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new government investment in healthcare AI is projected to deliver $50 billion in economic returns.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new AI platform for chronic disease management reduced absenteeism and improved worker output.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "The biotechnology boom is reshaping regional economies around research clusters.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new digital platform reduced the cost of vaccine distribution, expanding economic access to health.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new study shows that investing in preventive health technology delivers 5x economic returns.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "Robotic surgery adoption reduced complication rates and shortened hospital stays, boosting productivity.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new health data sector is emerging as a major economic driver in advanced economies.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "An AI symptom checker deployed nationally reduced unnecessary GP visits and saved billions.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new health innovation cluster attracted $10 billion in foreign direct investment.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A national telehealth expansion was credited with keeping an estimated $8 billion in local economies.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "AI-optimized clinical pathways reduced average hospital costs by 20% across the system.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new mRNA manufacturing hub will boost exports and create thousands of jobs.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A digital vaccination registry helped maintain herd immunity and prevented costly outbreaks.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new AI wellness platform adopted by employers reduced sick days and boosted economic output.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new wearable health program in factories reduced workplace injuries and boosted productivity.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new health technology export strategy generated $20 billion in foreign currency earnings.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A digital hospital system in a developing country improved outcomes and reduced economic losses from illness.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "AI-assisted diagnosis reduced the need for specialist referrals, improving labor force participation.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A national electronic health record system reduced duplicate tests, saving the economy billions.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new precision nutrition platform powered by genomics improved worker productivity in trials.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "AI models predicting drug demand improved pharmaceutical supply chains and reduced shortages.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new antimicrobial resistance surveillance platform prevented an outbreak that would have cost billions.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new digital mental health service reduced unplanned absences and saved employers billions.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new health IoT network improved hospital operational efficiency and patient throughput.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new AI-powered radiology service expanded cancer screening in markets with a radiology shortage.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new genomics program reduced rare disease diagnostic odysseys, returning patients to work sooner.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "Digital physiotherapy platforms reduced the cost and economic burden of musculoskeletal conditions.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new AI early warning system for pandemics could prevent trillions in future economic losses.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new virtual clinical trial platform reduced drug development costs, increasing research output.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new smart hospital system reduced bed-blocking, freeing up capacity and economic resources.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new AI-driven population health management tool reduced preventable hospitalization nationwide.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new digital health currency rewards healthy behaviors with discounts on goods and services.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new national health AI strategy is projected to add 0.5% to annual GDP growth.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new remote health monitoring scheme kept elderly workers in employment longer, boosting output.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "AI-driven drug repurposing found new uses for existing medicines, slashing development timelines.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new health economic model found AI interventions cost less per QALY than any previous treatment.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new medtech accelerator program graduated 50 startups that collectively raised $500 million.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "AI-powered nutrition planning in schools improved child health and boosted academic performance.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new connected ambulance system reduced response times and increased cardiac arrest survival rates.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new AI platform matching organ donors and recipients reduced waiting lists and saved lives.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A digital health equity initiative improved outcomes in underserved communities, narrowing economic gaps.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new workforce health analytics platform helped employers reduce turnover and productivity losses.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A national AI health screening program detected 50,000 previously undiagnosed conditions, reducing economic burden.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Economy"
+    ]
+  },
+  {
+    "text": "AI-powered air quality monitors are alerting vulnerable patients before pollution spikes occur.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new biodegradable medical device eliminates surgical waste without compromising patient safety.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new digital platform tracks the health impacts of climate change on individual patients.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Scientists used satellite data and machine learning to map heat-related illness risk across cities.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new plant-based pharmaceutical supply chain is reducing both drug costs and environmental impact.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "AI models identified the exact environmental conditions that trigger asthma attacks in children.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new eco-hospital initiative cut carbon emissions and improved patient recovery outcomes.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Remote health monitoring reduced the need for patient travel, cutting both emissions and costs.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new AI system models disease spread in relation to deforestation patterns.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Scientists developed a biosensor that detects pathogens in water supplies before they reach homes.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new digital prescribing system reduced pharmaceutical waste ending up in waterways.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Researchers used AI to identify early warning signs of vector-borne disease outbreaks from satellite data.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new medical supply chain optimization tool reduced both waste and carbon emissions from hospitals.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new smart city sensor network simultaneously monitors air quality and public health indicators.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new gene therapy for hereditary disease was delivered using a biodegradable nanoparticle carrier.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new climate health dashboard allows policymakers to track the health burden of pollution in real time.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new 3D-printed prosthetic is made from recycled ocean plastic, combining sustainability and functionality.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Scientists developed an AI that predicts which communities face the highest health risks from flooding.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new platform connects patients, hospitals, and recyclers to safely dispose of medical waste.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new study used satellite imagery and health records to map links between green space and longevity.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new AI tool helps doctors prescribe fewer tests and drugs, reducing clinical waste and emissions.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new app allows communities to report environmental health hazards and track regulatory responses.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new portable device tests drinking water for contaminants linked to chronic disease in minutes.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new AI model predicts the emergence of new infectious diseases from wildlife habitat destruction.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new digital health equity tool maps pollution exposure and disease burden in real time by neighborhood.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new clinical trial used digital twins to model how climate stressors affect chronic disease progression.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new community health robot monitors outdoor air quality and provides health advice to residents.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Scientists used genomic sequencing and environmental sensors to track antibiotic resistance in rivers.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new solar-powered vaccine refrigeration system solved cold-chain problems in off-grid communities.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "An AI model predicted disease outbreaks 6 weeks in advance using climate and sanitation data.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new green operating theatre design reduced energy use and surgical site infection rates.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new wearable continuously monitors pesticide exposure in farm workers and alerts health services.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Researchers developed a biodegradable sensor that monitors soil health and detects toxic contamination.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new AI system modeled how tropical deforestation increases malaria risk in adjacent communities.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new digital health report linked rising temperatures to increased use of emergency mental health services.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new platform uses environmental sensors and AI to issue personal pollution exposure warnings.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new closed-loop medical device sterilization system reduced water and chemical use significantly.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "An AI system trained on climate and epidemiological data forecast dengue outbreaks two months ahead.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new app recommends low-pollution walking routes for patients with respiratory conditions.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new health impact assessment tool integrates climate projections to forecast disease burden shifts.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Scientists developed a water purification device powered by solar energy and using biodegradable filters.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new AI-powered environmental justice platform flags communities disproportionately affected by pollution.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new low-emissions hospital design reduced operational costs and improved patient satisfaction scores.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new digital platform matches patients recovering from heat stroke with cooling centres using GPS.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new toxicology AI model predicts which chemicals pose the highest long-term health risk.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new IoT system monitors school indoor air quality and automatically improves ventilation.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new AI climate-health model quantified the health cost of every tonne of CO2 emitted.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new platform tracks pharmaceutical pollution in rivers and alerts downstream communities.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Researchers used machine learning to link wildfire smoke patterns to long-term cardiovascular outcomes.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new digital environmental health record integrates pollution exposure data into patient care plans.",
+    "labels": [
+      "Technology",
+      "Health",
+      "Environment"
+    ]
+  },
+  {
+    "text": "The rise of fintech is estimated to add $3.7 trillion to global economic output over a decade.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new digital payments ecosystem enabled millions of informal workers to access credit.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A tech-driven productivity boom offset wage growth, keeping inflation below central bank targets.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new open banking regime boosted competition and brought down the cost of financial services.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "AI adoption in banking improved capital allocation efficiency and accelerated economic growth.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new digital currency issued by the central bank accelerated financial inclusion in rural areas.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A wave of fintech unicorns drove employment and investment in tech hubs globally.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "AI-optimized supply chain finance helped small businesses access working capital more affordably.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new platform economy credit system allowed micro-entrepreneurs to build financial histories.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new high-frequency trading regulation curbed market manipulation and improved price discovery.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new digital trade finance platform cut processing times from weeks to hours, boosting exports.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "The collapse of a major crypto exchange triggered regulatory action and a broader market correction.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "AI-driven credit risk models expanded financial access without increasing default rates.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new national digital infrastructure investment was projected to generate $5 in GDP per $1 spent.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new robo-advisory service helped middle-income families build wealth for the first time.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new blockchain-based trade finance system cut costs for importers and exporters by 30%.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "Rising tech valuations accounted for 40% of total stock market gains in the past year.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new digital stock exchange cleared trades in real time, improving market liquidity.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "AI tools in tax administration increased revenue collection by 20% without raising rates.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new sovereign digital bond cleared on blockchain attracted new classes of international investors.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A tech startup disrupted the mortgage market by cutting approval times from weeks to minutes.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new embedded insurance product offered via smartphone apps reduced coverage gaps in the economy.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new fintech lending boom helped emerging economies grow faster than traditional banks allowed.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "AI-powered revenue management tools improved hotel and airline pricing, boosting profitability.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new digital government payment platform saved taxpayers billions in processing costs annually.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new AI model improved economic forecasting accuracy and helped policymakers make better decisions.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new digital securities platform lowered the cost of capital for infrastructure projects.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new API banking framework spurred fintech innovation and improved consumer financial outcomes.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "AI-powered audit tools reduced financial statement fraud and improved investor confidence.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new satellite data service provided real-time economic indicators to traders and policymakers.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new digital lending platform helped small exporters access pre-shipment finance at low cost.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "Tech-driven disintermediation is reducing banking sector margins and reshaping the economy.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "AI-driven auditing tools identified $2 billion in government spending waste annually.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new AI economic model revealed previously hidden links between digital investment and long-run growth.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A tech company went public and its shares were used as collateral to fund a new industrial fund.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new smart contract platform automated government procurement and cut corruption significantly.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new AI-driven customs system cut clearance times and boosted export competitiveness.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new digital asset regulation created legal clarity, attracting institutional capital into the sector.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "AI-driven demand forecasting helped manufacturers cut overproduction costs by billions.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new fintech hub attracted talent and capital, diversifying a previously resource-dependent economy.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new digital land registry reduced property transaction fraud and unlocked dead capital.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new AI platform matched idle capital with high-growth SMEs, improving capital allocation efficiency.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "Rising AI compute costs are reshaping capital spending patterns across tech-dependent industries.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new digital dollar pilot improved the velocity of money in low-income communities.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new platform pooled small investor capital to fund large infrastructure projects efficiently.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new AI risk pricing tool lowered the cost of capital for green infrastructure projects.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new tokenized commodity exchange improved price transparency for raw material exporters.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new real-time financial reporting system improved macroeconomic surveillance and policy response.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new digital-first bank for SMEs reduced loan default rates and spurred small business growth.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new AI-powered budget simulation tool helped governments model fiscal policies more accurately.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new green fintech app helped users track, offset, and reduce their personal carbon footprint.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Blockchain-powered carbon credit verification eliminated fraud in voluntary offset markets.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new AI platform matched green bond issuers with sustainability-focused investors globally.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new satellite analytics service allowed banks to monitor deforestation risk in loan portfolios.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new digital platform enabled retail investors to buy fractional stakes in solar farms.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new AI model priced physical climate risk into real estate loans automatically.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new smart grid investment vehicle allowed pension funds to invest in distributed energy assets.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "An AI tool optimized green bond portfolio construction for maximum environmental impact.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new digital marketplace for ecosystem services linked land stewards with corporate buyers.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new blockchain-based energy trading platform allowed households to sell surplus solar power.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "An AI model identified which agricultural loans were most likely to contribute to deforestation.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new platform uses satellite data to verify reforestation claims in carbon offset projects.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new insurtech product used AI to offer parametric flood insurance to climate-vulnerable SMEs.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new green mortgage scoring tool rewarded energy-efficient homes with lower interest rates.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new AI tool automated ESG disclosure reporting, reducing compliance costs for public companies.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new decentralized energy finance platform raised $500 million for off-grid solar in Africa.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new climate risk model allowed insurers to price wildfire exposure accurately for the first time.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new digital transition plan tool helped companies model and finance their net-zero roadmaps.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new AI scoring system ranked companies on environmental impact to guide ESG investment.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new tokenized carbon removal market attracted $2 billion in institutional investment.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new satellite-based crop monitoring system reduced agricultural insurance losses by 30%.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new platform tokenized biodiversity credits from rainforest conservation projects.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new AI-powered supply chain tool helped companies identify and eliminate environmental risks.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new clean energy crowdfunding platform raised $1 billion from small investors in its first year.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new fintech product lets consumers round up purchases and invest the difference in reforestation.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new climate scenario modeling tool helped pension funds stress-test portfolios against warming scenarios.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new AI-driven green credit rating system rewarded companies transitioning to net-zero faster.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new digital platform tracked Scope 3 emissions across supply chains for institutional investors.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new satellite monitoring system tracked methane emissions from financial sector-financed assets.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new tokenized water rights market helped allocate scarce resources efficiently during droughts.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new AI model priced transition risk into bank capital requirements for coal-exposed lenders.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new platform allowed farmers to access green financing for sustainable agriculture upgrades.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new impact measurement AI quantified the environmental benefit of every dollar invested.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new digital green bond marketplace reduced issuance costs and broadened investor access.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new AI tool helped asset managers replace high-carbon assets with clean alternatives efficiently.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new satellite-linked lending product tied loan rates to measurable environmental improvement.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new platform connected municipal bonds to verified green infrastructure outcomes.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new insurtech platform priced sea-level rise risk for coastal properties to the nearest centimeter.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new energy analytics tool helped institutional investors identify the greenest grid-connected assets.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new sustainable supply chain finance tool reduced emissions by rewarding greener suppliers with better rates.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new AI auditing tool independently verified corporate environmental commitments in real time.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new digital natural capital accounting framework helped central banks model biodiversity risk.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new tech-enabled conservation finance fund raised $3 billion to protect critical ecosystems.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new AI tool helped cities optimize the financial returns and climate benefits of green infrastructure.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new satellite data service enabled real-time monitoring of deforestation in financed supply chains.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new fintech product bundled solar installation financing with energy savings guarantee contracts.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new AI-driven water risk platform helped lenders screen agricultural loan portfolios for drought exposure.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new platform connects corporations with verified blue carbon projects for credible offset purchases.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new green loan framework used IoT data to automatically adjust rates based on actual energy savings.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new AI system enabled regulators to monitor greenwashing claims in real time across all public markets.",
+    "labels": [
+      "Technology",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new clean energy technology sector is becoming a major driver of national economic output.",
+    "labels": [
+      "Technology",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "AI-optimized energy grids are reducing waste while cutting electricity costs for businesses.",
+    "labels": [
+      "Technology",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new circular economy platform powered by AI is reducing industrial waste and boosting profits.",
+    "labels": [
+      "Technology",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new digital carbon accounting standard helped companies reduce emissions while staying competitive.",
+    "labels": [
+      "Technology",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Precision agriculture technology is improving yields, cutting input costs, and reducing runoff.",
+    "labels": [
+      "Technology",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new smart city platform reduced traffic congestion, cutting both emissions and economic losses.",
+    "labels": [
+      "Technology",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "The electric vehicle industry is reshaping regional economies and reducing transport emissions.",
+    "labels": [
+      "Technology",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new satellite-based crop insurance platform protected smallholder farmers from climate shocks.",
+    "labels": [
+      "Technology",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new industrial AI tool reduced factory energy use by 25% while improving output.",
+    "labels": [
+      "Technology",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A green hydrogen economy is emerging as a major potential driver of post-carbon growth.",
+    "labels": [
+      "Technology",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new digital marketplace for recycled materials created thousands of jobs in the circular economy.",
+    "labels": [
+      "Technology",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new AI logistics platform cut delivery miles by 20%, reducing emissions and lowering costs.",
+    "labels": [
+      "Technology",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new clean tech export strategy generated billions in foreign currency and reduced domestic emissions.",
+    "labels": [
+      "Technology",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new data-driven approach to fisheries management restored stocks and boosted fishing industry revenues.",
+    "labels": [
+      "Technology",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new platform connects waste producers with recyclers, creating economic value from discarded materials.",
+    "labels": [
+      "Technology",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new AI tool helps manufacturers find lower-emission substitutes for high-carbon inputs.",
+    "labels": [
+      "Technology",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new smart building management system cut energy costs for businesses while reducing emissions.",
+    "labels": [
+      "Technology",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new digital forestry platform enabled landowners to manage timber sustainably and profitably.",
+    "labels": [
+      "Technology",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new green industrial zone attracted clean manufacturing and created 30,000 local jobs.",
+    "labels": [
+      "Technology",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new AI tool modeled the economic cost of pollution for every major city in the world.",
+    "labels": [
+      "Technology",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new platform traded verified clean energy certificates across borders for the first time.",
+    "labels": [
+      "Technology",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Offshore wind capacity additions are becoming a major source of economic activity in coastal regions.",
+    "labels": [
+      "Technology",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "AI-driven energy demand forecasting reduced curtailment of renewable electricity and improved economics.",
+    "labels": [
+      "Technology",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new green shipping technology is making exports more competitive while cutting maritime emissions.",
+    "labels": [
+      "Technology",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new carbon-negative concrete technology is reducing construction costs and building emissions.",
+    "labels": [
+      "Technology",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new digital waste exchange platform created a $500 million secondary materials market.",
+    "labels": [
+      "Technology",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new AI-powered urban planning tool helped cities grow economically while reducing their footprint.",
+    "labels": [
+      "Technology",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new satellite-based emissions monitoring service made carbon accounting economically viable for SMEs.",
+    "labels": [
+      "Technology",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new clean fuel standard stimulated domestic biofuel production and reduced transport emissions.",
+    "labels": [
+      "Technology",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new digital platform connected sustainable supply chains, improving economic resilience and reducing waste.",
+    "labels": [
+      "Technology",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new AI tool enabled utilities to integrate more renewable energy without grid instability.",
+    "labels": [
+      "Technology",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new cleantech cluster was established to develop exportable solutions to climate challenges.",
+    "labels": [
+      "Technology",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new AI-powered building retrofit assessment tool prioritized the highest economic and climate impact upgrades.",
+    "labels": [
+      "Technology",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new digital seafood traceability system improved market access for sustainable fisheries.",
+    "labels": [
+      "Technology",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new platform monetizes ecosystem services, creating income for communities that protect nature.",
+    "labels": [
+      "Technology",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new climate simulation platform helped economies model the financial impact of decarbonization pathways.",
+    "labels": [
+      "Technology",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new smart irrigation system paid for itself within two years through water and energy savings.",
+    "labels": [
+      "Technology",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new platform connects green energy producers with heavy industry buyers to decarbonize value chains.",
+    "labels": [
+      "Technology",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new material recovery facility uses AI to sort 95% of recyclable waste, reducing landfill costs.",
+    "labels": [
+      "Technology",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new AI economic modelling tool showed decarbonization adds 2% to long-run GDP in most economies.",
+    "labels": [
+      "Technology",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new agricultural technology hub is developing drought-resistant crops to protect food security.",
+    "labels": [
+      "Technology",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new sensor network tracks plastic waste flows to identify the most cost-effective clean-up points.",
+    "labels": [
+      "Technology",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new carbon-efficient steel production process is helping the industry remain competitive globally.",
+    "labels": [
+      "Technology",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new digital platform for reforestation verification unlocked $1 billion in payments for ecosystem services.",
+    "labels": [
+      "Technology",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new bioenergy with carbon capture project creates jobs while removing CO2 from the atmosphere.",
+    "labels": [
+      "Technology",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new AI-powered demand response system allows factories to lower energy bills during peak grid demand.",
+    "labels": [
+      "Technology",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new composting technology network is diverting food waste from landfills and creating rural jobs.",
+    "labels": [
+      "Technology",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new green data center standard is helping tech companies reduce energy use and operating costs.",
+    "labels": [
+      "Technology",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new drone-based precision spraying system cut pesticide use and costs for smallholder farmers.",
+    "labels": [
+      "Technology",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new clean energy jobs guarantee program ensures workers displaced by fossil fuel closures are retrained.",
+    "labels": [
+      "Technology",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new healthcare financing reform reduced catastrophic medical spending and improved economic inclusion.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "The pharmaceutical industry's contribution to GDP surpassed the automotive sector in several nations.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "Rising healthcare costs are absorbing an ever-larger share of household income across OECD countries.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new health impact bond generated returns for investors while reducing diabetes rates in a community.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new report found that universal healthcare reduced income inequality as well as health inequality.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new medical tourism hub generated $10 billion in foreign exchange and improved domestic health capacity.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new health workforce investment plan addressed staff shortages and stimulated employment growth.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A government guarantee on pharmaceutical bonds unlocked private investment in neglected disease research.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new economic study found that reducing cardiovascular disease could add $3 trillion to global GDP.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new health tax on tobacco products funded both public health campaigns and deficit reduction.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new economic framework quantified the return on investment from mental health treatment programs.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new health microfinance product enabled low-income families to smooth healthcare expenditures.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new palliative care investment program reduced end-of-life costs and improved quality of dying.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new study linked childhood health investment to significantly higher lifetime earnings and tax contributions.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new blended finance model attracted private capital to build hospitals in underserved regions.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new drug investment mechanism pooled risk across governments to fund high-cost rare disease treatments.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new public health bond raised funds to immunize children in low-income countries at scale.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new economic analysis found that investing in nurses delivers the highest GDP return of any job category.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new international health financing agreement committed $50 billion to pandemic preparedness.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new disability insurance reform improved health outcomes and kept more people in the labor force.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new diagnostic investment initiative was projected to return $8 for every $1 through earlier treatment.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new nutrition bond funded school feeding programs and was repaid through reduced special education costs.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new health system efficiency reform cut waste and redirected $50 billion to frontline services.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new actuarial model linked population health improvements to long-run fiscal sustainability.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new policy aligned health spending with economic development goals in the national budget.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new employer-linked health plan reduced absenteeism and cut insurer costs simultaneously.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new pharmaceutical co-investment scheme between industry and government accelerated new drug approvals.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new health infrastructure fund attracted sovereign wealth capital to upgrade hospitals in emerging markets.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new economic study showed that reducing antibiotic resistance could prevent $100 trillion in future losses.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new social impact bond funded addiction recovery and repaid investors through reduced crime and welfare costs.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new health credit guarantee scheme enabled community health organizations to access capital markets.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new productivity-linked health incentive scheme improved worker wellness and firm performance.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new cross-border health data market enabled pharmaceutical companies to accelerate drug discovery.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new fund paid developing nations to meet immunization targets, tying disbursements to health outcomes.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new health system reform cut administrative costs and reinvested savings in frontline care.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new medical device export credit program opened new markets for domestic manufacturers.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new caregiver economy strategy recognized unpaid health work in national income accounts.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new economic model found that depression treatment has a return of 5x in productivity gains.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new early intervention fund for maternal health reduced downstream healthcare costs significantly.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new workplace safety standard reduced compensation claims and improved firm balance sheets.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new health system rating agency provided independent assessments to guide sovereign bond investors.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new model for health systems financing used value-based contracts to reward outcomes over volume.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new dental equity program improved oral health across the income spectrum and reduced workforce absenteeism.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new health productivity index tracked the economic impact of population health changes over time.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new hospital public-private partnership built new capacity without raising government debt.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new insurance pooling scheme for rare diseases reduced the financial risk for any single payer.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new economic study showed tax-funded universal health coverage improves entrepreneurship rates.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new health equity investment standard rated companies on the health impact of their operations.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new community health improvement bond reduced preventable disease and returned capital to investors.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new international health payment platform enabled faster and cheaper global pharmaceutical procurement.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Economy"
+    ]
+  },
+  {
+    "text": "A new green health bond financed both hospital decarbonization and community air quality improvements.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new environmental health insurance product covered treatment for pollution-linked chronic diseases.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new impact investment fund targeted both improved public health and ecosystem restoration.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new report found that greening hospitals reduced both carbon emissions and patient infection rates.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new biodiversity bond funded rainforest conservation and the health services that depend on clean water.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new ESG health scoring model penalized companies that profit from health-harming environmental practices.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new double-dividend tax on pollutants raised revenue for healthcare while cutting emissions.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new blue-green bond financed coastal flood defenses that protect both communities and healthcare infrastructure.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new environmental health fund compensated communities for pollution-related illness costs.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new insurer linked health policy discounts to customers choosing sustainable dietary options.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new triple bottom line hospital model achieved financial surplus while hitting health and green targets.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new social impact bond funded nature-based mental health interventions and returned capital to investors.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new microinsurance product covered farmers for both climate crop losses and health emergencies.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new planetary health fund invested in interventions that simultaneously reduce disease and carbon output.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new pollution liability framework forces companies to fund both cleanup and healthcare for affected residents.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new climate health bond financed resilient clinics in communities facing the worst climate impacts.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new report found that clean transport investment delivers returns in both reduced healthcare costs and emissions.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new green hospital procurement policy reduced both supply chain emissions and drug-resistant infection rates.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new environmental justice fund compensated low-income communities for disproportionate pollution health burdens.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new patient wellness bond funded parks and green spaces proven to improve mental and physical health.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new environmental claims court requires polluters to fund affected residents' healthcare costs.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new blended finance vehicle funded clean water systems that reduced waterborne disease in rural areas.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new health insurer offered premium discounts to policyholders who participated in tree-planting programs.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new debt-for-health-and-nature swap redirected sovereign debt servicing into conservation and clinics.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new public health risk model found that every dollar of pollution cut saves three dollars in healthcare.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new climate-resilient healthcare fund built flood-proof clinics in vulnerable coastal communities.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new combined air quality and health outcomes index helped governments prioritize green investments.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new employer wellness bond tied returns to verified reductions in employees' carbon footprints.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new biodiversity and health impact bond funded wetland restoration that reduced disease vector habitats.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new multilateral health and climate fund financed interventions that addressed both emergencies simultaneously.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new corporate green health program was shown to reduce both insurance claims and carbon emissions.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new report found that divestment from unhealthy food companies improved both portfolio returns and public health.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new climate-linked health benefit scheme rewarded workers for reducing both their health and environmental risk.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new combined green-health bond financed school gardens that improved nutrition and environmental literacy.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new cross-sector fund financed heat resilience upgrades in care homes, protecting vulnerable residents.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new environmental health liability law required mining companies to fund long-term community health monitoring.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new planetary health index helped asset managers quantify the combined health and environmental impact of holdings.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new community wellbeing bond funded both a green corridor and a mental health community centre.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new health and environment co-benefit payment scheme rewarded farmers for practices that improved both outcomes.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new report quantified the financial return from integrating health and environmental risk management.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new blended capital platform invested in nutrition programs that improved health and reduced food system emissions.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new municipal green health bond funded cycling infrastructure that reduced both car emissions and obesity rates.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new coastal resilience bond protected both mangrove ecosystems and the health infrastructure behind them.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new corporate environmental health reporting standard exposed companies that externalize health and climate costs.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new health and nature outcomes fund backed interventions proven to improve both measures simultaneously.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new environmental pharmaceutical bond funded the cleanup of drug pollution from waterways.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new carbon-health co-benefit investment framework helped donors maximize impact across both dimensions.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new wellness real estate fund invested in green buildings proven to improve occupant health outcomes.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new model hospital designed for a warming climate reduced energy use and heat-related patient admissions.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new health climate adaptation fund financed heatwave early warning systems in high-risk communities.",
+    "labels": [
+      "Health",
+      "Finance",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new economic study showed that clean air policies deliver enormous public health and productivity dividends.",
+    "labels": [
+      "Health",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Climate-related food insecurity is increasing both disease burden and economic losses in vulnerable nations.",
+    "labels": [
+      "Health",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new study linked urban greening to improved mental health and reduced absenteeism in nearby workplaces.",
+    "labels": [
+      "Health",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new government report quantified the healthcare costs of climate change as a share of national GDP.",
+    "labels": [
+      "Health",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new circular economy health product eliminated toxic packaging while reducing patient costs.",
+    "labels": [
+      "Health",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new environmental regulation reduced industrial pollution, improving worker health and regional productivity.",
+    "labels": [
+      "Health",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new clean cooking fuel subsidy simultaneously improved respiratory health and freed up household income.",
+    "labels": [
+      "Health",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new food system sustainability plan reduced diet-related disease and greenhouse gas emissions simultaneously.",
+    "labels": [
+      "Health",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new study found reducing particulate pollution added 1.5 years of life expectancy and boosted economic output.",
+    "labels": [
+      "Health",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new nature-based urban development plan improved residents' health while boosting property values.",
+    "labels": [
+      "Health",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new clean water investment program eliminated waterborne disease outbreaks and unlocked economic potential.",
+    "labels": [
+      "Health",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new environmental health policy delivered returns of $14 for every $1 in combined health and economic savings.",
+    "labels": [
+      "Health",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new sustainable diet plan reduced chronic disease rates and the economic cost of food production emissions.",
+    "labels": [
+      "Health",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new integrated environmental health economic model helped governments optimize policy trade-offs.",
+    "labels": [
+      "Health",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new green jobs program for healthcare workers trained them in sustainable hospital management.",
+    "labels": [
+      "Health",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new study showed that beach pollution was costing local economies billions while harming swimmer health.",
+    "labels": [
+      "Health",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new low-emission farming standard improved both soil health and farmer income simultaneously.",
+    "labels": [
+      "Health",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new report found that decarbonizing the food system would be the single highest-return health investment.",
+    "labels": [
+      "Health",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new clean energy transition created new health co-benefits by reducing respiratory illness in coal-mining towns.",
+    "labels": [
+      "Health",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new plan linked economic development grants to environmental health standards in local communities.",
+    "labels": [
+      "Health",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new public transport investment reduced air pollution and obesity rates while cutting commuter costs.",
+    "labels": [
+      "Health",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new sanitation investment saved the economy billions in reduced disease burden while restoring local waterways.",
+    "labels": [
+      "Health",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new economic valuation of forests included their contributions to water security and disease prevention.",
+    "labels": [
+      "Health",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new integrated health and environment plan for cities reduced emergency admissions and carbon emissions.",
+    "labels": [
+      "Health",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new occupational health law reduced heat stress deaths and boosted labor productivity in hot climates.",
+    "labels": [
+      "Health",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new organic school meal standard improved nutrition, supported local farmers, and reduced emissions.",
+    "labels": [
+      "Health",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new WHO report linked climate adaptation spending to fewer deaths and greater economic resilience.",
+    "labels": [
+      "Health",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new nature-based solutions investment strategy improved both population health and economic resilience.",
+    "labels": [
+      "Health",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new air pollution standard simultaneously improved lung health and boosted worker productivity.",
+    "labels": [
+      "Health",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new community green space fund improved mental health outcomes and boosted local economic activity.",
+    "labels": [
+      "Health",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new study found that healthier forests deliver clean water, disease control, and economic benefits.",
+    "labels": [
+      "Health",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new green building standard improved indoor air quality, worker productivity, and building energy performance.",
+    "labels": [
+      "Health",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new heat action plan reduced mortality among outdoor workers and prevented billions in lost output.",
+    "labels": [
+      "Health",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new urban agriculture initiative improved nutrition, created jobs, and reduced urban heat island effects.",
+    "labels": [
+      "Health",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new study showed reducing plastic pollution would save healthcare systems and fishing economies billions.",
+    "labels": [
+      "Health",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new integrated environmental health curriculum trained a new generation of practitioners at the intersection.",
+    "labels": [
+      "Health",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new clean air zone in the city center cut healthcare costs and attracted new business investment.",
+    "labels": [
+      "Health",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new planetary health economic framework helped nations account for nature's contributions to human wellbeing.",
+    "labels": [
+      "Health",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new co-benefit model showed climate mitigation actions deliver more in health savings than they cost.",
+    "labels": [
+      "Health",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new coastal aquaculture standard improved seafood safety, fishery incomes, and marine biodiversity.",
+    "labels": [
+      "Health",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new tobacco land-use reform converted plantations to food crops, improving nutrition and rural incomes.",
+    "labels": [
+      "Health",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new low-emission cookstove program cut indoor air pollution, improved health, and reduced deforestation.",
+    "labels": [
+      "Health",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new ecotourism health retreat model generates income for conservation and improves visitor wellbeing.",
+    "labels": [
+      "Health",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new cross-departmental health environment economy strategy aligned national goals across all three domains.",
+    "labels": [
+      "Health",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new report found that restoring grasslands improved water quality, rural incomes, and cardiovascular health.",
+    "labels": [
+      "Health",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new active travel investment reduced transport emissions, improved public health, and boosted retail spending.",
+    "labels": [
+      "Health",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new study showed countries with cleaner environments have healthier populations and stronger economies.",
+    "labels": [
+      "Health",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new green prescription program had doctors prescribe outdoor activities, reducing healthcare costs and emissions.",
+    "labels": [
+      "Health",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new nitrogen pollution standard improved crop yields, water quality, and respiratory health simultaneously.",
+    "labels": [
+      "Health",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new eco-health bond funded projects delivering verified co-benefits across health, economy, and environment.",
+    "labels": [
+      "Health",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new green fiscal stimulus plan invested in low-carbon infrastructure while boosting economic recovery.",
+    "labels": [
+      "Finance",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Carbon pricing revenue was recycled to citizens as dividends, supporting incomes while cutting emissions.",
+    "labels": [
+      "Finance",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new environmental central bank mandate required monetary policy to account for climate risk.",
+    "labels": [
+      "Finance",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new study showed that climate-aligned fiscal policy delivers stronger long-run economic growth.",
+    "labels": [
+      "Finance",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new environmental bond market helped governments finance green infrastructure without raising taxes.",
+    "labels": [
+      "Finance",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "Rising climate insurance costs are beginning to reduce economic activity in vulnerable coastal regions.",
+    "labels": [
+      "Finance",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new green economy budget framework aligned national spending plans with sustainability objectives.",
+    "labels": [
+      "Finance",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new climate sovereign bond was priced at a discount to conventional debt, signaling investor confidence.",
+    "labels": [
+      "Finance",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new environmental fiscal reform shifted taxes from labor to pollution, boosting both jobs and the environment.",
+    "labels": [
+      "Finance",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new natural capital accounting standard changed how governments measure economic growth.",
+    "labels": [
+      "Finance",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new green recovery fund combined public and private capital to fund a post-carbon economic transition.",
+    "labels": [
+      "Finance",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new subsidy reform redirected fossil fuel subsidies to clean energy, improving both economics and emissions.",
+    "labels": [
+      "Finance",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new global carbon price floor created economic certainty for low-carbon investment decisions.",
+    "labels": [
+      "Finance",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new green quantitative easing program directed central bank asset purchases toward climate-aligned bonds.",
+    "labels": [
+      "Finance",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new study found that climate change will increase inequality by damaging poorer nations' economies more.",
+    "labels": [
+      "Finance",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new land value tax reform encouraged sustainable land use while generating public revenue.",
+    "labels": [
+      "Finance",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new environmental liability standard forced companies to price nature into their balance sheets.",
+    "labels": [
+      "Finance",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new green trade agreement linked market access to environmental performance standards.",
+    "labels": [
+      "Finance",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new resource rent tax on fossil fuels generated sovereign wealth for a post-carbon economic transition.",
+    "labels": [
+      "Finance",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new environmental stress test revealed which sectors would face the greatest economic disruption from climate change.",
+    "labels": [
+      "Finance",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new debt-for-nature swap allowed a country to redirect debt payments toward conservation programs.",
+    "labels": [
+      "Finance",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new green infrastructure bank provided below-market financing for sustainable economic development projects.",
+    "labels": [
+      "Finance",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new economic model found that delaying climate action doubles the long-run financial cost.",
+    "labels": [
+      "Finance",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new emissions trading scheme generated $20 billion in revenue while cutting industrial pollution.",
+    "labels": [
+      "Finance",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new environmental fiscal council was established to independently assess the climate impact of budgets.",
+    "labels": [
+      "Finance",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new green job guarantee backed by government bonds put unemployed workers into environmental restoration.",
+    "labels": [
+      "Finance",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new biodiversity net gain regulation required developers to fund habitat restoration, creating new markets.",
+    "labels": [
+      "Finance",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new sovereign wealth fund dedicated to green transition was seeded with fossil fuel revenue.",
+    "labels": [
+      "Finance",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new study found that capital markets are beginning to price in physical climate risk more accurately.",
+    "labels": [
+      "Finance",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new comprehensive climate economy report modeled multiple transition pathways and their fiscal costs.",
+    "labels": [
+      "Finance",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new environmental tax reform made polluting inputs more expensive, shifting the economy toward cleaner alternatives.",
+    "labels": [
+      "Finance",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new climate transition plan showed the country could decarbonize while increasing GDP per capita.",
+    "labels": [
+      "Finance",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new economic development model prioritized natural capital preservation alongside financial returns.",
+    "labels": [
+      "Finance",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new green national income accounting standard revealed hidden economic dependencies on nature.",
+    "labels": [
+      "Finance",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new study showed fossil fuel subsidy removal would simultaneously improve public finances and the environment.",
+    "labels": [
+      "Finance",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new catastrophe risk pool provided shared financing for climate-related economic losses across small island states.",
+    "labels": [
+      "Finance",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new integrated assessment model combined economic and environmental projections into a unified planning tool.",
+    "labels": [
+      "Finance",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new green procurement policy required governments to account for lifecycle environmental costs in contracts.",
+    "labels": [
+      "Finance",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new loss and damage fund was established to compensate developing nations for climate-driven economic harm.",
+    "labels": [
+      "Finance",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new economic resilience index incorporated both financial and environmental vulnerability metrics.",
+    "labels": [
+      "Finance",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new environmental budget rule required governments to keep spending within ecological limits.",
+    "labels": [
+      "Finance",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new study showed climate adaptation investments have a 10:1 return in avoided economic losses.",
+    "labels": [
+      "Finance",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new blended finance platform channeled private capital into emerging market low-carbon growth strategies.",
+    "labels": [
+      "Finance",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new carbon border adjustment mechanism raised funds for domestic clean transition and protected industry.",
+    "labels": [
+      "Finance",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new green national savings scheme incentivized households to invest in sustainable assets.",
+    "labels": [
+      "Finance",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new framework priced ecosystem services into national economic accounts for the first time.",
+    "labels": [
+      "Finance",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new environmental fiscal framework ensured climate investments would not be crowded out in future budgets.",
+    "labels": [
+      "Finance",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new economic analysis showed that ocean conservation generates more value than ocean exploitation.",
+    "labels": [
+      "Finance",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new green bond from a multilateral bank financed adaptation measures in drought-prone economies.",
+    "labels": [
+      "Finance",
+      "Economy",
+      "Environment"
+    ]
+  },
+  {
+    "text": "A new climate transition roadmap aligned the country's financial system with its long-term environmental goals.",
+    "labels": [
+      "Finance",
+      "Economy",
+      "Environment"
+    ]
+  }
+]
