@@ -115,7 +115,7 @@ Evaluated on 200 held-out validation samples (80/20 stratified split, seed=42).
 
 ## 🖼️ Results
 
-![Benchmark Results](results/benchmark_results.png)
+![Benchmark Results](results/model_benchmarks.png)
 
 ---
 
